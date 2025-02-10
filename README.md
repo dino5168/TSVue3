@@ -1,7 +1,10 @@
 # TSVue3 文件紀錄
 
 ### 如何上傳檔案到 Github
+<<<<<<< HEAD
 
+=======
+>>>>>>> 760e64c0c599aeba377453a117a4fd8bc43968b6
 ```sh
 git init
 
@@ -16,6 +19,7 @@ git remote add origin https://github.com/dino5168/TSVue3.git
 git push -u origin main
 ```
 
+<<<<<<< HEAD
 ### 設定本機與 GitHub 的連結。
 
 ```sh
@@ -24,3 +28,5 @@ git config --global user.name "你的GitHub名稱"
 git config --global user.email "你的GitHub註冊信箱"
 
 ```
+=======
+>>>>>>> 760e64c0c599aeba377453a117a4fd8bc43968b6
